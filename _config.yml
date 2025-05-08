@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Syu-Huei Huang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -27,7 +27,6 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-repository: frank91488/syuhuei.github.io
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,22 +58,21 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Syu-Huei Huang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "M.S. in Electrical and Computer Engineering"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Kaohsiung, Taiwan"
+      icon: "fas fa-fw fa-location-dot"
+    - label: "National Taiwan University of Science and Technology"
+      icon: "fab fa-fw fa-school"
+      url: "https://www.ntust.edu.tw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/frank91488"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/syuhuei-huang/"
 
 footer:
   links:
@@ -83,10 +81,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/frank91488"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/syuhuei-huang/"
 
 defaults:
   # _posts
