@@ -63,7 +63,7 @@ author:
   bio    : "M.S. in Electrical and Computer Engineering"
   links:
     - label: "Kaohsiung, Taiwan"
-      icon: "fas fa-fw fa-location-dot"
+      icon: "fa-solid fa-location-dot"
     - label: "National Taiwan University of Science and Technology"
       icon: "fab fa-fw fa-school"
       url: "https://www.ntust.edu.tw"
